@@ -1,4 +1,4 @@
-package Day_6;
+package Day_6.classwork;
 
 public class for_loop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Day_6;
+package Day_6.classwork;
 
 public class Schedule_forloop {
     public static void main(String[] args) {
