@@ -1,4 +1,4 @@
-package Day_7;
+package Day_7.classwork;
 
 public class Sum_of_arrays {
     public static void main(String[] args) {
