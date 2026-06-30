@@ -8,9 +8,10 @@ public class Palindrome {
 
 
         char[] ch=new char[s.length()];
+        int n=s.length();
 
         for(int i=0;i<s.length();i++){
-            ch[i]=s.charAt(i);
+            ch[i]=s.charAt(n-1-i);
         }
         System.out.print(Arrays.toString(ch));
     }
