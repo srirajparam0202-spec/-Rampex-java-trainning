@@ -1,0 +1,17 @@
+package Day_9.classwork;
+import java.util.Scanner;
+import java.util.Arrays;
+
+public class Palindrome {
+    public static void main(String[] args) {
+        String s="madam";
+
+
+        char[] ch=new char[s.length()];
+
+        for(int i=0;i<s.length();i++){
+            ch[i]=s.charAt(i);
+        }
+        System.out.print(Arrays.toString(ch));
+    }
+}
